@@ -1,0 +1,21 @@
+body {
+    font-size: 16px;
+    background: lavender;  
+    font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+}
+h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+.row {
+    padding-bottom: 10px;
+}
+.error {
+    color: red;
+    font-size: 90%;
+}
